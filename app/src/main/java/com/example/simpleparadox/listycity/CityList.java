@@ -79,6 +79,6 @@ public class CityList {
     }
 
     public City getLastCity(){
-        return null;
+        return cities.get(cities.size()-1);
     }
 }
