@@ -79,6 +79,6 @@ public class CityList {
     }
 
     public City getLastCity(){
-        return Null
+        return null;
     }
 }
